@@ -1,6 +1,6 @@
 /*
 ========================================================================================
- Name        :  balance_bracket_stack.cpp
+ Name        :  balance_bracket.cpp
  Author      :  Cole Dapprich
  Version     :  1.0
  Course      :  CSCE 3110.001
