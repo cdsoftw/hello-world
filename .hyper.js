@@ -8,9 +8,9 @@ module.exports = {
         // or `'canary'` for less polished but more frequent updates
         updateChannel: 'stable',
         // default font size in pixels for all tabs
-        fontSize: 12.5,
+        fontSize: 13,
         // font family with optional fallbacks
-        fontFamily: '"Fira Code", "CourierPrimeCode NF"',
+        fontFamily: '"FiraCode Nerd Font",  "FiraCode Nerd Font Mono", "CourierPrimeCode Nerd Font"',
         // default font weight: 'normal' or 'bold'
         fontWeight: 'normal',
         // font weight for bold characters: 'normal' or 'bold'
@@ -141,7 +141,6 @@ module.exports = {
         "hyper-pane",
         "hyper-yes",
         "hyper-highlight-active-pane",
-        "hyper-tabs-enhanced",
         "hyperterm-summon",
         "hyper-manager",
         "hyper-drop-file",
